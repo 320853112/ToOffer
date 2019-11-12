@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7e5081c-9a46-46e2-9cd3-db01f9ca93a2" name="Default Changelist" comment="" />
+    <list default="true" id="f7e5081c-9a46-46e2-9cd3-db01f9ca93a2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/q_07_ReConstructBinaryTree/BinaryTreeNextNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/q_08_twoStackToQueue/TwoStackToQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/q_09_Fibonacci/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/q_10_ReverseArray/reverseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1TPTkYj83MTjZMuNSeYvRrwguEn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -35,7 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReConstructBinaryTree">
+  <component name="RunManager" selected="Application.Fibonacci">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="q_03_repeate.Demo" />
       <module name="ToOffer" />
@@ -55,6 +65,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="q_04_findSDoubleNums.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q_09_Fibonacci.Fibonacci" />
+      <module name="ToOffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="q_09_Fibonacci.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,6 +126,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.ReConstructBinaryTree" />
         <item itemvalue="Application.ReplaceSpace" />
         <item itemvalue="Application.Demo" />
@@ -121,12 +145,23 @@
       <option name="presentableId" value="Default" />
       <updated>1573360874857</updated>
       <workItem from="1573360877014" duration="19237000" />
-      <workItem from="1573445070759" duration="515000" />
+      <workItem from="1573445070759" duration="5499000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
