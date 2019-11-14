@@ -2,17 +2,13 @@ package q_09_Fibonacci;
 
 public class Fibonacci {
     public static int fibonacci(int n) {
-        int next1 =0;
-        int next2 =1;
-        if(n==0) return next1;
-        if(n==1) return next2;
-        int res = 1;
-        for(int i=2;i<=n;i++){
-            res = next1+next2;
-            next1=next2;
-            next2 = res;
+        if ( n < 1 ) return 0;
+        int g = 1, f = 2;
+        while ( --n!=0 ) {
+            f = f + g;
+            g = f - g;
         }
-        return res;
+        return g;
     }
 
     public static void main(String[] args) {
