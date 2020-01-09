@@ -1,4 +1,4 @@
-package findKthToTail;
+package q_15_findKthToTail;
 
 class ListNode {
     int val;
