@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7e5081c-9a46-46e2-9cd3-db01f9ca93a2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/q_20_printMatrix/PrintMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/q_19_mirror/Mirror.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/q_19_mirror/Mirror.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/q_18_hasSubtree/HasSubtree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/q_18_hasSubtree/HasSubtree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +142,7 @@
       <workItem from="1577685722882" duration="19568000" />
       <workItem from="1578387560989" duration="20058000" />
       <workItem from="1578541117129" duration="1427000" />
-      <workItem from="1578621246185" duration="4354000" />
+      <workItem from="1578621246185" duration="6193000" />
     </task>
     <task id="LOCAL-00001" summary="11.12">
       <created>1573528859937</created>
@@ -206,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578625406619</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="1.10">
+      <created>1578625612352</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1578625612352</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,10 +247,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="285" y="207" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1578623722186" />
-    <state x="560" y="109" key="CommitChangelistDialog2" timestamp="1578625404195">
+    <state x="560" y="109" key="CommitChangelistDialog2" timestamp="1578625610168">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="560" y="109" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578625404195" />
+    <state x="560" y="109" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578625610168" />
     <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1578624431051">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -275,14 +283,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578624431051" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1578625411627">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1578625621643">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578625411627" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578625621643" />
     <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1578547308987">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578547308987" />
+    <state x="666" y="311" key="git4idea.merge.GitPullDialog" timestamp="1578625616001">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="666" y="311" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578625616001" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -299,17 +311,17 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/q_18_hasSubtree/HasSubtree.java</url>
-          <line>17</line>
+          <line>23</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/q_18_hasSubtree/HasSubtree.java</url>
-          <line>45</line>
+          <line>51</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/q_18_hasSubtree/HasSubtree.java</url>
-          <line>46</line>
+          <line>52</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
