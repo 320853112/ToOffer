@@ -16,5 +16,8 @@ public class Mirror {
         root.right = left;
         Mirror(left);
         Mirror(right);
+        //也可写成下面这样，好处是提前进行判断，减少了一层递归，但上层会多判断下
+//        if(left!=null) Mirror(left);
+//        if(right!=null) Mirror(right);
     }
 }
