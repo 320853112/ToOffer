@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7e5081c-9a46-46e2-9cd3-db01f9ca93a2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/q_18_hasSubtree/HasSubtree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/q_17_mergeList/q_17_mergeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/q_17_mergeList/q_17_mergeList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +35,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.Power">
+  <component name="RunManager" selected="Application.HasSubtree">
     <configuration name="BiComplement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="q_12_BiComplement.BiComplement" />
       <module name="ToOffer" />
@@ -49,12 +49,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q_09_Fibonacci.Fibonacci" />
+    <configuration name="HasSubtree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q_18_hasSubtree.HasSubtree" />
       <module name="ToOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="q_09_Fibonacci.*" />
+          <option name="PATTERN" value="q_18_hasSubtree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HasSubtree" />
         <item itemvalue="Application.Power" />
         <item itemvalue="Application.BiComplement" />
         <item itemvalue="Application.MatrixPath_NoRecursion" />
         <item itemvalue="Application.MatrixPath" />
-        <item itemvalue="Application.Fibonacci" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +139,9 @@
       <workItem from="1573620745756" duration="599000" />
       <workItem from="1573706653902" duration="12777000" />
       <workItem from="1577685722882" duration="19568000" />
-      <workItem from="1578387560989" duration="17507000" />
+      <workItem from="1578387560989" duration="20058000" />
+      <workItem from="1578541117129" duration="1427000" />
+      <workItem from="1578621246185" duration="3728000" />
     </task>
     <task id="LOCAL-00001" summary="11.12">
       <created>1573528859937</created>
@@ -183,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578535953513</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="1.9">
+      <created>1578538020636</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1578538020636</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,46 +220,54 @@
     <option name="LAST_COMMIT_MESSAGE" value="1.9" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="560" y="109" key="CommitChangelistDialog2" timestamp="1578535950766">
+    <state x="285" y="207" key="#com.intellij.ide.util.MemberChooser" timestamp="1578623722186">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="560" y="109" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578535950766" />
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1577945068753">
+    <state x="285" y="207" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1578623722186" />
+    <state x="560" y="109" key="CommitChangelistDialog2" timestamp="1578538018335">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577945068753" />
-    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1577945068752">
+    <state x="560" y="109" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578538018335" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1578624431051">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577945068752" />
-    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1577945068752">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578624431051" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1578624431051">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577945068752" />
-    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1577945068753">
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578624431051" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1578624431051">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577945068753" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1577945068753">
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578624431051" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1578624431051">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577945068753" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1577945068753">
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578624431051" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1578624431051">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577945068753" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1577945068753">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578624431051" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1578624431051">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577945068753" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1577945068753">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578624431051" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1578624431051">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577945068753" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1578535957555">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578624431051" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1578624431051">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578535957555" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578624431051" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1578538023675">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578538023675" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1578547308987">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578547308987" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -264,6 +281,21 @@
           <url>file://$PROJECT_DIR$/src/q_11_MatrixPath/MatrixPath_NoRecursion.java</url>
           <line>63</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/q_18_hasSubtree/HasSubtree.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/q_18_hasSubtree/HasSubtree.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/q_18_hasSubtree/HasSubtree.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
