@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7e5081c-9a46-46e2-9cd3-db01f9ca93a2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/q_20_printMatrix/PrintMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/q_18_hasSubtree/HasSubtree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/q_18_hasSubtree/HasSubtree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/q_20_printMatrix/PrintMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/q_20_printMatrix/PrintMatrix.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +35,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.HasSubtree">
+  <component name="RunManager" selected="Application.PrintMatrix">
     <configuration name="BiComplement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="q_12_BiComplement.BiComplement" />
       <module name="ToOffer" />
@@ -56,19 +55,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="q_18_hasSubtree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MatrixPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="q_11_MatrixPath.MatrixPath" />
-      <module name="ToOffer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="q_11_MatrixPath.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,13 +88,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PrintMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="q_20_printMatrix.PrintMatrix" />
+      <module name="ToOffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="q_20_printMatrix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrintMatrix" />
         <item itemvalue="Application.HasSubtree" />
         <item itemvalue="Application.Power" />
         <item itemvalue="Application.BiComplement" />
         <item itemvalue="Application.MatrixPath_NoRecursion" />
-        <item itemvalue="Application.MatrixPath" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +141,7 @@
       <workItem from="1577685722882" duration="19568000" />
       <workItem from="1578387560989" duration="20058000" />
       <workItem from="1578541117129" duration="1427000" />
-      <workItem from="1578621246185" duration="6193000" />
+      <workItem from="1578621246185" duration="11369000" />
     </task>
     <task id="LOCAL-00001" summary="11.12">
       <created>1573528859937</created>
@@ -214,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578625612352</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="1.10">
+      <created>1578635477396</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1578635477396</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,46 +253,46 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="285" y="207" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1578623722186" />
-    <state x="560" y="109" key="CommitChangelistDialog2" timestamp="1578625610168">
+    <state x="560" y="109" key="CommitChangelistDialog2" timestamp="1578635475158">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="560" y="109" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578625610168" />
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1578624431051">
+    <state x="560" y="109" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578635475158" />
+    <state width="1877" height="236" key="GridCell.Tab.0.bottom" timestamp="1578644700014">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578624431051" />
-    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1578624431051">
+    <state width="1877" height="236" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578644700014" />
+    <state width="1877" height="236" key="GridCell.Tab.0.center" timestamp="1578644700014">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578624431051" />
-    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1578624431051">
+    <state width="1877" height="236" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578644700014" />
+    <state width="1877" height="236" key="GridCell.Tab.0.left" timestamp="1578644700014">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578624431051" />
-    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1578624431051">
+    <state width="1877" height="236" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578644700014" />
+    <state width="1877" height="236" key="GridCell.Tab.0.right" timestamp="1578644700014">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578624431051" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1578624431051">
+    <state width="1877" height="236" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578644700014" />
+    <state width="1877" height="360" key="GridCell.Tab.1.bottom" timestamp="1578644613816">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578624431051" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1578624431051">
+    <state width="1877" height="360" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578644613816" />
+    <state width="1877" height="360" key="GridCell.Tab.1.center" timestamp="1578644613816">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578624431051" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1578624431051">
+    <state width="1877" height="360" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578644613816" />
+    <state width="1877" height="360" key="GridCell.Tab.1.left" timestamp="1578644613816">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578624431051" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1578624431051">
+    <state width="1877" height="360" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578644613816" />
+    <state width="1877" height="360" key="GridCell.Tab.1.right" timestamp="1578644613816">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578624431051" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1578625621643">
+    <state width="1877" height="360" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578644613816" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1578635481155">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578625621643" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578635481155" />
     <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1578547308987">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -323,6 +329,11 @@
           <url>file://$PROJECT_DIR$/src/q_18_hasSubtree/HasSubtree.java</url>
           <line>52</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/q_20_printMatrix/PrintMatrix.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
